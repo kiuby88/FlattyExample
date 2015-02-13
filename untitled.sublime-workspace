@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"projec",
+				"projectDescription"
+			],
+			[
+				"pro",
+				"projectIndex"
+			],
+			[
+				"proje",
+				"projects"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"emp",
+				"employerFormatted"
+			],
+			[
+				"ti",
+				"titleFormatted"
+			],
+			[
+				"job",
+				"jobElement"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"em",
+				"employer"
+			],
+			[
+				"jo",
+				"job"
+			],
+			[
+				"sk",
+				"skills"
+			],
+			[
+				"s",
+				"skills"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"fun",
+				"funThoughts"
+			],
+			[
+				"aw",
+				"awesomeThoughts"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"border-c",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8859,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Fold Bracket Content"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"all pa",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"reboot",
+			"restart",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Jose/dev/bootstrapTest/FlattyExample/assets"
+	],
+	"file_history":
+	[
+		"/Users/Jose/dev/bootstrapTest/FlattyExample/index.html",
+		"/Users/Jose/dev/bootstrapTest/FlattyExample/untitled.sublime-project",
+		"/Users/Jose/courses/miriadaz/HTML5/Modulo 1/Tarea1/tarea1.html",
+		"/Users/Jose/courses/miriadaz/HTML5/Modulo 1/Tarea1/untitled.html",
+		"/Users/Jose/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Jose/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Jose/dev/pivotalTest/hello-world-webapp/src/resources/database.sql",
+		"/Users/Jose/dev/pivotalTest/hello-world-webapp-cups/src/main/webapp/db.jsp",
+		"/Users/Jose/dev/pivotalTest/database.sql",
+		"/Users/Jose/dev/pivotalTest/hello-world-webapp/manifest.yml",
+		"/Users/Jose/dev/pivotalTest/incubator-brooklyn/examples/simple-nosql-cluster/pom.xml",
+		"/Users/Jose/Google Drive/SeaClouds-Own/Planes/php/php_hello_world_AWS.yaml",
+		"/Users/Jose/Downloads/api.out",
+		"/Users/Jose/courses/udacity/js/frontend-nanodegree-resume/index.html",
+		"/Users/Jose/courses/udacity/htmlCss/leson3/portFolio/bootstrap/index.html",
+		"/Users/Jose/courses/udacity/js/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/Users/Jose/courses/udacity/js/frontend-nanodegree-resume/js/helper.js",
+		"/Users/Jose/courses/udacity/js/frontend-nanodegree-resume/js/jQuery.js",
+		"/Users/Jose/Desktop/Demo/Chat-Application-JBoss.xml",
+		"/Users/Jose/Desktop/Demo/Chat-Application-JBoss.yaml",
+		"/Users/Jose/courses/udacity/htmlCss/leson2/portfolio/framework/test2.html",
+		"/Users/Jose/courses/udacity/htmlCss/leson3/portFolio/bootstrap/gridExample.html",
+		"/Users/Jose/courses/udacity/htmlCss/leson2/portfolio/framework/test3.html",
+		"/Users/Jose/courses/udacity/htmlCss/leson2/portfolio/framework/test.html",
+		"/Users/Jose/courses/udacity/htmlCss/leson3/portFolio/bootstrap/css/main.css",
+		"/Users/Jose/courses/udacity/htmlCss/leson2/portfolio/framework/css/main.css",
+		"/Users/Jose/courses/udacity/htmlCss/leson2/portfolio/framework/untitled",
+		"/Users/Jose/courses/udacity/htmlCss/leson1/portfolio/toplist/style.css",
+		"/Users/Jose/courses/udacity/htmlCss/leson1/portfolio/toplist/app.html",
+		"/Users/Jose/Google Drive/SeaClouds-Own/HP-v2/planes/php_hello_world.yaml",
+		"/Users/Jose/dev/nurocasestudyphp5-4/plans/plan_nuro_DB_AWS_HP_file.yaml",
+		"/Users/Jose/dev/nurocasestudyphp5-5/create-Brooklyn.sql",
+		"/Users/Jose/Library/Application Support/Sublime Text 3/Packages/User/Chrome.sublime-build"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"theme",
+			"replace",
+			"project",
+			"inName",
+			"internationalizeButton",
+			"work-entry",
+			".work-entry",
+			"job",
+			"locationFinder",
+			"bio.contacts.location",
+			"for",
+			"HTMLskillsStart",
+			"locationFinder",
+			"location.push",
+			"project-entry",
+			"education",
+			"location",
+			"1322"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								409
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 28.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
